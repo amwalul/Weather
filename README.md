@@ -4,3 +4,5 @@
 - MVVM pattern
 - Room database
 - Retrofit
+- Glide
+- Navigation Components
